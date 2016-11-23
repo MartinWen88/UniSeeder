@@ -1,0 +1,19 @@
+{
+    "name": "uniseeder",
+    "description": "Universal Laravel seeder",
+    "authors": [
+        {
+            "name": "Martin",
+            "email": "martin@codebridge.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7"
+    },
+    "autoload": {
+        "psr-0": {
+            "UniSeeder": "src/"
+        }
+    }
+}
